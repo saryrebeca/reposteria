@@ -1,0 +1,34 @@
+.page {
+	color: #fff;
+	font-size: 15px;
+		
+	}
+.tamano{
+	font-size: 50px;
+	
+}
+.centrado{
+	margin-left: 50px;
+	}
+.btn-nuevo{
+	text-transform: uppercase;
+	padding: 0.5% 1%;
+	color: #fff;
+	background-color: #ff6C0C;
+	border-radius: 0px;
+	margin-left: 75px;
+	
+}
+.boton-mena{
+	padding: 2%;
+}
+.page-content {
+	background-color: #F792B1;
+	
+}
+.page-content p{
+	color: #fff;
+	margin-top: -20px;
+	
+}
+	
